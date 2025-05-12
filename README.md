@@ -24,10 +24,9 @@ Here, you'll find projects that showcase my skills in modern web development, UI
             - Building clean and maintainable front-end code  
             
     📫 How to Reach Me  
-            - 📧 Email: [allenlobo05@gmail.com]  
-            - 💼 LinkedIn: [https://www.linkedin.com/in/allen-lobo-a2a0b8312/]  
-            - 📸 Instagram: [("https://www.instagram.com/_allen_lobo_/")]  
-
+            - 📧 Email: allenlobo05@gmail.com  
+            - 💼 LinkedIn: https://www.linkedin.com/in/allen-lobo-a2a0b8312/  
+            - 📸 Instagram: "https://www.instagram.com/_allen_lobo_/"
     ⚡⚡ Fun Fact  
             I can debug CSS faster than I can find matching socks!
 
