@@ -23,36 +23,45 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,python,firebase,figma,vscode,github" />
 </p>
 
----
+<div align="center">
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=allenlobo31&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=allenlobo31&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=allenlobo31&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=allenlobo31&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
-
-### 📂 Featured Projects
-
-- 🚑 [Ambulance Priority System](https://github.com/manishrshetty/ambulance-priority-system)
-- 🎮 [Multiplayer Drawing Game](https://github.com/manishrshetty/drawbattle)
-- 🧠 [AI-based AR App](https://github.com/manishrshetty/ai-ar-app)
-- 🪑 [Oakspace - Furniture Store](https://github.com/manishrshetty/oakspace)
-
----
-
-### 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishrshetty&theme=dracula&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allenlobo31&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Allen's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenlobo31&theme=react&hide_border=false" alt="Allen's GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenlobo31&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Allen's Top Languages"/>
 </p>
+
+</div>
 
 ---
 
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=allenlobo31&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Allen's GitHub Trophies"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👁️ Profile Views
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=allenlobo31&icon=0&color=0" alt="Profile Views"/>
+  </a>
+</p>
+
+</div>
 ### ☕ Let's Connect
 
 <p align="center">
