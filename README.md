@@ -13,7 +13,7 @@
 - 💡 Exploring: *Generative AI, **DevOps, and **Machine Learning*
 - 🌱 Actively learning: *React, **Firebase, **Python*
 - ✨ Passionate about building tech that solves real-world problems
-- 📫 Reach me at: allenlobo05@gmail.com
+- 📫 Reach me at: allenlobo2002@gmail.com
 
 ---
 
@@ -47,9 +47,9 @@
 ### ☕ Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/allen-lobo-a2a0b8312/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/allen-lobo-a2a0b8312/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:allenlobo05@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
