@@ -25,21 +25,6 @@
 
 <div align="center">
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-</div>
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=allenlobo31&theme=react&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allenlobo31&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenlobo31&theme=react&hide_border=false" alt="Allen's GitHub Streak"/>
-</p>
-
----
 
 <div align="center">
 
