@@ -1,70 +1,46 @@
+<!-- 🏴‍☠️ You read the source. Nice. The real treasure is the repos pinned on this profile. -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0b3d2e,100:00F779&height=200&section=header&text=Allen%20Lobo&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Frontend%20%C2%B7%20AI%20%C2%B7%20Backend&descAlignY=62&descSize=20" width="100%" alt="Allen Lobo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0b3d2e,100:00F779&height=220&section=header&text=Allen%20Lobo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=React%20%C2%B7%20Python%20%C2%B7%20DevOps%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Allen Lobo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00F779&center=true&vCenter=true&width=560&lines=Interfaces+that+feel+alive;ML+models+that+ship%2C+not+just+train;Backends+that+hold+the+line" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00F779&center=true&vCenter=true&width=640&lines=Working+with+React%2C+Python%2C+DevOps+%26+ML;Exploring+AI+and+new+technologies;Learning+agentic+AI;Sailing+the+Grand+Line+of+code" alt="Typing SVG" />
 
 <br/>
 
-[**About**](#-about) · [**Stack**](#-stack) · [**Projects**](#-projects) · [**Contact**](#-contact)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00F779)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F779)
+![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=for-the-badge&logo=docker&logoColor=00F779)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00F779)
+![Learning Agentic AI](https://img.shields.io/badge/Learning-Agentic%20AI-7B2FF7?style=for-the-badge)
+
+<br/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F779,100:7B2FF7&height=3" width="100%" alt="" />
 
 ```bash
 $ whoami
-allen-lobo // full-stack dev + ml builder
+allen-lobo // react + AI developer
 
 $ cat /sys/status
-[ OK ] frontend   react · vite · next.js · flutter
-[ OK ] ai         python · xgboost · flask · gemini
-[ OK ] backend    node · express · mongodb · firebase
-[ .. ] learning   devops · generative ai
-[ >> ] building   websites · ai detection
+[ OK ] working     react · python · devops · machine learning
+[ OK ] backend     node · express · mongodb · postgresql · sql
+[ .. ] exploring   ai · new technologies
+[ >> ] learning    agentic ai
 ```
-
-## 👤 About
-
-| 🔭 Working on | 💡 Exploring | 🌱 Learning |
-|:--|:--|:--|
-| Websites and AI detection | Generative AI, DevOps, machine learning | React, Firebase, Python |
-
-I like building tech that solves real-world problems. My projects so far cover **health tech**, **disaster response**, **payments and commerce**, **retail AI** and **secure file sharing**.
-
-**How I build**
-
-- **Working systems over mockups.** I'd rather ship something that runs end to end than a demo that only looks right.
-- **Honest about data.** The cardiac model trains on real PhysioNet recordings. Where a project uses synthetic data, the project description says so.
 
 ## 🧰 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,vite,nextjs,tailwind,html,css,flutter,python,flask,nodejs,express,mongodb,firebase,java,postman,vercel,git,github,figma,vscode" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,flutter,python,flask,java,nodejs,express,mongodb,postgres,firebase,docker,kubernetes,githubactions,git,github,postman,vercel,figma,vscode" alt="Tech stack" />
 
 </div>
 
-## 🚀 Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F779,100:7B2FF7&height=3" width="100%" alt="" />
 
-| Project | Stack | Details |
-|:--|:--|:--|
-| [**Cardiac_Arrest_Prediction**](https://github.com/allenlobo31/Cardiac_Arrest_Prediction) | Python · Flask | Pre-cardiac-arrest classifier built on HRV features extracted from ECG, with a Flask app. Training on real PhysioNet data only. |
-| **Flood-Aware Evacuation Routing** | Hackathon | Emergency evacuation routing that accounts for flooding. |
-| **Folk Space** | Next.js | AI-integrated POS with live weather, delivery location sharing and stock alerts. Demand forecasting uses a random forest on a synthetic dataset modelled on Nordic shops. |
-| **Blue Pay** | Flutter · JavaScript | 24-hour hackathon build (team of 3): offline payments with a Bluetooth scanner and a "pay anyone" flow over USSD. A relay and JS backend simulate the bank. |
-| [**Codeathon-3.0**](https://github.com/allenlobo31/Codeathon-3.0) | Node.js | Secure file sharing app, backend first. Target features: share links with QR, expiry, email-restricted access, revoke, share history and download tracking. |
-
-<details>
-<summary><b>Earlier experiments</b></summary>
-<br/>
-
-- [`quizapp`](https://github.com/allenlobo31/quizapp): quiz app in Java
-- [`todolist_csbs`](https://github.com/allenlobo31/todolist_csbs): to-do list in JavaScript
-- [`React_Calculator`](https://github.com/allenlobo31/React_Calculator): calculator in React
-- [`timepass`](https://github.com/allenlobo31/timepass): JavaScript sandbox
-
-</details>
 
 ## 📊 Stats
 
@@ -73,15 +49,25 @@ I like building tech that solves real-world problems. My projects so far cover *
 <img src="https://github-readme-stats.vercel.app/api?username=allenlobo31&show_icons=true&theme=transparent&title_color=00F779&icon_color=00F779&text_color=9da7b3&hide_border=true" height="150" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenlobo31&layout=compact&theme=transparent&title_color=00F779&text_color=9da7b3&hide_border=true" height="150" alt="Top languages" />
 
+<img src="https://streak-stats.demolab.com?user=allenlobo31&theme=dark&hide_border=true&background=00000000&ring=00F779&fire=00F779&currStreakLabel=00F779" height="150" alt="Contribution streak" />
+
+<img src="https://ghchart.rshah.org/00F779/allenlobo31" width="90%" alt="Contribution heatmap" />
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F779,100:7B2FF7&height=3" width="100%" alt="" />
 
 ## 📫 Contact
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=7B2FF7&center=true&vCenter=true&width=480&lines=Got+an+idea%3F+Let%27s+build+it.;Open+to+new+technologies+and+new+crews" alt="Typing SVG" />
+
+<br/>
+
 <a href="mailto:allenlobo05@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F779" alt="Email" /></a>
 <a href="https://github.com/allenlobo31"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F779" alt="GitHub" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F779,60:0b3d2e,100:0d1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F779,60:0b3d2e,100:0d1117&height=100&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
